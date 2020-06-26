@@ -26,8 +26,7 @@ Notebooks.
 		-Selección del mejor modelo para los datos de validación
 		-Exportar sessión y grafo de tensorflow
 	- Deployment
-		-Prueba y validación final a travéz de métricas de todos los modelos anteriores, con el dataset de pruebas guardado
-		 anteriormente
+		-Prueba y validación final a travéz de métricas de todos los modelos anteriores, con el dataset de pruebas guardado anteriormente
 		-Ensemble Learning para votar y elegir el valor mas repetido entre las predicciones de los modelos
 		-Simulación de deployment, importando los modelos guardados y realizando predicciones sobre los datos
 		 de prueba, e inventados, tomando la desición. Mostrando salidas probabilisticas.
