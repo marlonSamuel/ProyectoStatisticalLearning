@@ -31,6 +31,8 @@ Notebooks.
 		-Ensemble Learning para votar y elegir el valor mas repetido entre las predicciones de los modelos
 		-Simulación de deployment, importando los modelos guardados y realizando predicciones sobre los datos
 		 de prueba, e inventados, tomando la desición. Mostrando salidas probabilisticas.
+	- Conclusiones + Investigacion
+		- contiene las investigaciones,conclusiones, problemas y experiencias realizando el proyecto
 
 Otros archivos.py
 Funciones globales para facilitar taréas globalFuncs.py
